@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Senniorss/scritpere/main/all%20scirtp.lua?token=GHSAT0AAAAAACASUQZOLA2LIV4BZE3PHVCWZBAL5MA"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Senniorss/scritpere/main/all%20scirtp.lua"))()
